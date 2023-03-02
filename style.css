@@ -1,0 +1,36 @@
+
+body{
+    max-width: 1440px;
+    margin: 0 auto;
+   
+}
+img{
+    max-width: 288px;
+    height: 360px;
+    cursor: pointer;
+}
+
+#wrapper{
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  row-gap: 30px;
+  column-gap: 20px;
+   padding:120px;
+   background-color: rgb(238, 223, 223);
+   margin: 0 auto;
+}
+
+p, a{
+    display: inline;
+margin-bottom: 100px;
+text-decoration: none;
+
+}
+p{
+    margin-right: 200px;
+    margin-left: 20px;
+ /* border: 1px solid red; */
+}
+[data-favorite="true"]{
+    color: red;
+}

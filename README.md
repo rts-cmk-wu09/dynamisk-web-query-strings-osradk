@@ -28,7 +28,7 @@ Du skal nu "fiske" id'et ud af url'en og fetche den json-fil som kun indeholder 
 - Tænk over, hvad du skriver i dine commit-beskeder.
 
 ### **Ekstraopgave** - hvis du er hurtigt færdig
-Få funktionaliteten med at markere en favorit til at virke. Hvis du markerer en destination som favorit, skal hjertet være rødt (eller en anden farve efter dit valg) på _både_ listevisning _og_ detaljevisning. Du skal måske undersøge lidt på forhånd om LocalStorage eller cookies.
+Få funktionaliteten med at markere en favorit til at virke. Hvis du markerer en destination som favorit, skal hjertet icon være rødt (eller en anden farve efter dit valg) på _både_ listevisning _og_ detaljevisning. Du skal måske undersøge lidt på forhånd om LocalStorage eller cookies.
 
 ### **Aflevering**: 
 Du afleverer ved at lave et **pull-request** hvor du sætter din lærer på som *reviewer*.
