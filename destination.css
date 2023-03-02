@@ -1,0 +1,59 @@
+body {
+   max-width: 1440px;
+   margin: 0 auto;
+}
+
+img {
+   max-width: 712px;
+   height: 700px;
+   position: relative;
+}
+
+#des_wrapper {
+   padding: 70px;
+   margin-bottom: 100px;
+   display: flex;
+   gap: 20px;
+   max-width: 1424px;
+   background-color: rgb(246, 223, 223);
+   margin: 0 auto;
+}
+
+textdiv {
+   padding-left: 50px;
+}
+
+h1 {
+   font-size: 20px;
+   margin-top: 100px;
+   text-align: center;
+}
+
+h2 {
+   font-size: 32px;
+
+}
+
+.fa-heart{
+   position: absolute;
+ top: 100px;
+   z-index: 1;
+   left: 770px;
+   color: aliceblue;
+   font-size: 25px;
+   display: inline;
+}
+.favorit{
+   position: absolute;
+ top: 100px;
+   z-index: 1;
+   left: 750px;
+   color: aliceblue;
+   font-size: 25px;
+   display: inline;
+}
+
+
+[data-favorite="true"]{
+   color: red;
+}
