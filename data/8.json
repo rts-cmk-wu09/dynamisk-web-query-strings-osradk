@@ -1,6 +1,6 @@
 {
     "id": 8,
-    "image": "spain.jpg",
+    "image": ["spain.jpg","spain1.webp"],
     "destination": "Spain",
     "title": "Full home/apartment in Alozaina, Spanien",
     "subtitle": "the beautiful mountain range 'Sierra de las Nieves",
